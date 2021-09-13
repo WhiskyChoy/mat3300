@@ -1,0 +1,16 @@
+name: mat3300
+channels:
+  - defaults
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+dependencies:
+  - python=3.7.11
+  - numpy
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - ipywidgets
+  - scipy
+  - jupyter
+  - pip
+  - pip:
+    - tqdm
